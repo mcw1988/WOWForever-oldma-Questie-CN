@@ -1,0 +1,14 @@
+## Interface: 16001
+## Title: |cff46bf72Questie 中文运行时补全|r
+## Title-zhCN: |cff46bf72Questie 中文运行时补全|r
+## Notes: Fills in the Chinese names QuestieDB is missing, using only the official zhCN client data. Never machine-translates.
+## Notes-zhCN: 用客户端官方中文数据补全 QuestieDB 缺失的中文，不自行翻译；学到的结果缓存在本地。
+## Author: local
+## Version: 1.0.0
+## Dependencies: QuestieDB
+## SavedVariables: QuestieCN_RuntimeDB
+## X-Flavor: Forever
+## X-Locale: zhCN
+Gaps.lua
+Static.lua
+Core.lua
